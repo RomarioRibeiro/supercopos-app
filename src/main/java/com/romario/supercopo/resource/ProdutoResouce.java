@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
 import com.romario.supercopo.domian.Produto;
-import com.romario.supercopo.domian.dto.ProdutoDTO;
+import com.romario.supercopo.dto.ProdutoDTO;
 import com.romario.supercopo.service.ProdutoService;
 
 @RestController

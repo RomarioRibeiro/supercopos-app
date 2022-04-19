@@ -8,7 +8,7 @@ import org.springframework.dao.DataIntegrityViolationException;
 import org.springframework.stereotype.Service;
 
 import com.romario.supercopo.domian.Categoria;
-import com.romario.supercopo.domian.dto.CategoriaDTO;
+import com.romario.supercopo.dto.CategoriaDTO;
 import com.romario.supercopo.repository.CategoriaRepository;
 import com.romario.supercopo.service.exception.DatalIntegrityExcepition;
 import com.romario.supercopo.service.exception.ObjectNotFoundException;

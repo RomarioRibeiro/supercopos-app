@@ -1,4 +1,4 @@
-package com.romario.supercopo.domian.dto;
+package com.romario.supercopo.dto;
 
 import java.io.Serializable;
 
