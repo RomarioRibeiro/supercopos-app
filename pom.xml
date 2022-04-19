@@ -15,7 +15,7 @@
 	<name>supercopo</name>
 	<description>projeto de estoque de embalagem e caixas</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
